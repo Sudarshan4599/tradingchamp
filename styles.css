@@ -1,0 +1,173 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+#container-fluid{
+    padding: 2% 15% 3% 15%;
+}
+
+
+.iphone6{
+    width: 500px;
+    height: 850px;
+    transform: rotate(10deg);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+
+
+#title{
+    background-color: #917FB3;
+    color: white;
+}
+
+.title-wordings{
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+    size: 4.5rem;
+}
+
+
+/* Navigation */
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+#navbar{
+    padding-bottom: 3rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Ubuntu";
+}
+
+
+
+/* Buttons */
+
+.button-reg{
+    margin: 5% 3% 5% 0;
+}
+
+
+
+/* Features */
+#features{
+    padding: 5% 7%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 7%;
+}
+
+.icon{
+    color: #E5BEEC;
+    padding-bottom: 1.5rem;
+}
+
+.icon:hover{
+    color: #19376D ;
+}
+
+
+
+
+
+/* Why-us */
+#why-us{
+    text-align: center;
+    background-color: #E5BEEC;
+    color: white;
+}
+
+.why-us-image{
+    width: 40%;
+    height: 40%;
+    /* border-radius: 100%; */
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+
+/* Press */
+#press{
+    background-color: #E5BEEC;
+    padding-bottom: 4%;
+    text-align: center;
+}
+
+.press-image{
+    width: 8%;
+    margin: 20px 30px 30px;
+}
+
+
+
+
+/* Pricing */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+    
+}
+
+@media (max-width: 992px) {
+    
+    #title{
+        text-align: center;
+    }
+}
+
+
+
+
+/* CTA */
+#cta{
+    background-color:#E5BEEC;
+    text-align: center;
+    color: white;
+    padding: 7% 20%;
+}
+
+/* Footer */
+#footer{
+    padding: 2% 1%;
+    text-align: center;
+}
+
+.soical-icon{
+    margin: 20px 10px;
+}
+
+.no-underline{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
